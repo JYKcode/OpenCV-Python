@@ -32,3 +32,11 @@
 | **8**. ```히스토그램 역투영.py``` | Histogram backprojection을 통한 임의의 색상 영역 검출 |
 | **9**. ```크로마 키 합성.py``` | mini project : Chroma key 합성 |
 
+|OpenCV-Python filtering| 내용 | 
+|---|:---:|
+| **1**. ```blurrung.py```|블러링 : 평균값 필터|
+| **2**. ```gaussian.py``` |블러링 : 가우시안 필터|
+| **3**. ```sharpening.py``` |언샤프 마스크 필터|
+| **4**. ```median filter.py```|미디언 필터를 통한 잡음 제거|
+| **5**. ```bilateral filter.py``` |양방향 필터를 통한 잡음 제거|
+| **6**. ```cartooncam.py``` |mini project : 카툰 필터 카메라|
