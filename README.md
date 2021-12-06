@@ -1,12 +1,12 @@
 # OpenCV-Python
 
-| Chapter 1| 내용 | 
+| OpenCV-Python start| 내용 | 
 |---|:---:|
 | **1**. ```HelloCV.py```| 영상 파일 불러와서 출력하기|
 | **2**. ```matplot.py``` | Matplotlib 사용하여 영상 출력하기 |
 | **3**. ```slideshow.py``` | mini project : 이미지 슬라이드쇼 |
 
-| Chapter 2| 내용 | 
+| OpenCV-Python basic| 내용 | 
 |---|:---:|
 | **1**. ```img_info.py```|영상의 속성과 픽셀 값 처리|
 | **2**. ```img_ops.py``` |영상의 생성, 복사, 부분 영상 추출|
@@ -20,7 +20,7 @@
 | **10**. ```switching videos.py``` | mini project : 동영상 전환 이펙트|
 
 
-| Chapter 3| 내용 | 
+| OpenCV-Python basic method| 내용 | 
 |---|:---:|
 | **1**. ```영상의 밝기 조절.py```| OpenCV의 덧셈 연산을 통한 영상의 밝기 조절|
 | **2**. ```영상의 산술 및 논리 연산.py``` | OpenCV의 다양한 연산 기법 통한 영상 출력 |
@@ -31,3 +31,4 @@
 | **7**. ```특정 색상 영역 추출.py```| cv2.inRange() 함수를 통한 영상의 특정 색상 영역 추출|
 | **8**. ```히스토그램 역투영.py``` | Histogram backprojection을 통한 임의의 색상 영역 검출 |
 | **9**. ```크로마 키 합성.py``` | mini project : Chroma key 합성 |
+
