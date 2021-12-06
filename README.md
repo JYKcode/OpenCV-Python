@@ -8,16 +8,16 @@
 
 | Chapter 2| 내용 | 
 |---|:---:|
-| **1**. ```img_info.py```||
-| **2**. ```img_ops.py``` ||
-| **3**. ```mask_op.py``` ||
-| **4**. ```drawing.py```||
-| **5**. ```camera_in_out.py``` ||
-| **6**. ``` ``` ||
-| **7**. ``` ```||
-| **8**. ``` ``` ||
-| **9**. ``` ``` ||
-| **10**. ``` ``` | mini project : |
+| **1**. ```img_info.py```|영상의 속성과 픽셀 값 처리|
+| **2**. ```img_ops.py``` |영상의 생성, 복사, 부분 영상 추출|
+| **3**. ```mask_op.py``` |마스크 연산 및 ROI|
+| **4**. ```drawing.py```|OpenCV 그리기|
+| **5**. ```camera_in_out.py``` |카메라 및 동영상 처리하기|
+| **6**. ```keyboard event.py``` |키보드 이벤트 처리|
+| **7**. ```mouse event.py```|마우스 이벤트 처리|
+| **8**. ```use trackbar.py``` |트랙바 사용|
+| **9**. ```check time.py``` |연산 시간 측정|
+| **10**. ```switching videos.py``` | mini project : 동영상 전환 이펙트|
 
 
 | Chapter 3| 내용 | 
