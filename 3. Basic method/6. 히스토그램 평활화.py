@@ -15,7 +15,7 @@ import sys
 import cv2
 import matplotlib.pyplot as plt
 
-src = cv2.imread('Hawkes.jpg', cv2.IMREAD_GRAYSCALE)
+src = cv2.imread('sleepy.png', cv2.IMREAD_GRAYSCALE)
 
 if src is None:
     print('Image load failed!')
